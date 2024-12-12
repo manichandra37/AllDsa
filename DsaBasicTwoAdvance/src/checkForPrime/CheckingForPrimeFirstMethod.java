@@ -18,6 +18,9 @@ public class CheckingForPrimeFirstMethod {
 
 	}
 
+	/*
+	 * Time complexity is O(n)
+	 */
 	private static boolean checkForPrime(int num1) {
 		// TODO Auto-generated method stub
 		if (num1 == 1) {
