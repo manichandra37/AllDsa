@@ -21,7 +21,9 @@ public class PrimeFactor {
 		System.out.print(list);
 
 	}
-
+/*
+ * The below solution gives you the prime factors but the time cmplexity is O(n^2)
+ */
 	private static ArrayList<Integer> checkForPrime(int num1) {
 
 		ArrayList<Integer> primeList = new ArrayList<>();
